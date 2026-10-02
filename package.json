@@ -1,0 +1,24 @@
+{
+  "name": "lunch-booking",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "@supabase/supabase-js": "^2.43.0",
+    "qrcode.react": "^1.0.1",
+    "html5-qrcode": "^2.3.8",
+    "lucide-react": "^0.408.0",
+    "date-fns": "^2.30.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.0",
+    "vite": "^5.0.0"
+  }
+}
